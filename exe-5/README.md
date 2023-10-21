@@ -20,3 +20,8 @@ npm install react-native-animatable --save
 
 -- Instalar o Axios
 npm install axios
+
+--COMPILADO DE VÁRIOS COMANDOS
+npm install react-native firebase axios react-native-animatable --save
+npm install @expo/vector-icons @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context react-native-gesture-handler
